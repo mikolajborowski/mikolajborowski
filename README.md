@@ -1,16 +1,20 @@
-### Hi there 👋
+# :tada: Hello, my name is Mikołaj Borowski.
 
-<!--
-**mikolajborowski/mikolajborowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im 23 yo full-stack web developer, from Poland highly passionate about Javascript, Vue.js, and other web technologies. Currently, I have around 5 years of commercial experience and I'm more than happy to answer all your question or job opportunities. In my recent years of work-related experience, I was focusing highly on front-end technologies. You can check out my work in my [portfolio](https://mikolajborowski.github.io/). I have been working in the tech industry since I was 18. You can check out my LinkedIn [here](https://www.linkedin.com/in/miko%C5%82aj-borowski/). 
 
-Here are some ideas to get you started:
+## :triangular_ruler: Real time apps
+You can find my project's here:
+* [portfolio](https://mikolajborowski.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :computer: The tech that I have been working with 
+* HTML, CSS
+* Tailwind, Bootstrap
+* JavaScript, TypeScript
+* PHP, Laravel, Kochana
+* Ionic 5 + Vue
+* RabbitMQ
+* Vue 2/3, vuetify, vuex, vue-router
+* SQL, PostgreSQL, Oracle
+* Jira, Git, Confluence
+
+## :tongue: I speak Polish, English, and JavaScript ;)
