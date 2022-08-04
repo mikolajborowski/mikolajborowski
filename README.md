@@ -4,7 +4,11 @@ Im 23 yo full-stack web developer, from Poland highly passionate about Javascrip
 
 ## :triangular_ruler: Real time apps
 You can find my project's here:
-* [portfolio](https://mikolajborowski.github.io/)
+* [Portfolio website](https://mikolajborowski.github.io/)
+
+## :blue_book: Repositories
+You can find my repo's here:
+* [Portfolio code](https://github.com/mikolajborowski/portfolio)
 
 ## :computer: The tech that I have been working with 
 * HTML, CSS
